@@ -1,0 +1,28 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "frontend",
+            "cwd": "${workspaceFolder}/frontend",
+            "request": "launch",
+            "type": "dart",
+            "program": "${workspaceFolder}/frontend/lib/main.dart"
+        },
+        {
+            "name": "frontend (profile mode)",
+            "cwd": "${workspaceFolder}/frontend",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile",
+            "program": "${workspaceFolder}/frontend/lib/main.dart"
+        },
+        {
+            "name": "frontend (release mode)",
+            "cwd": "${workspaceFolder}/frontend",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release",
+            "program": "${workspaceFolder}/frontend/lib/main.dart"
+        }
+    ]
+}
