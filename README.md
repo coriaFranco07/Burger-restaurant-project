@@ -1,4 +1,5 @@
 Plataforma de Hamburguesería 🍔
+
 Descripción
 Esta es una plataforma en línea que permite a los clientes explorar nuestro menú de hamburguesas y acompañamientos. Ofrece una interfaz fácil de usar para ver detalles de cada hamburguesa, incluidas descripciones, ingredientes, precios y opciones de personalización. Es ideal para ofrecer una experiencia de usuario fluida y atractiva.
 
