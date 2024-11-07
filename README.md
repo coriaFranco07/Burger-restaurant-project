@@ -11,10 +11,6 @@ Sistema de Pedidos: Facilita a los clientes la selección de productos y la crea
 
 Tecnologías Utilizadas 🛠️
 
-Frontend:
-
-Flutter
-Backend:
-
-Django, DRF, Dart
-Base de datos: MYSQL
+Frontend: Flutter.
+Backend: Django, DRF, Dart.
+Base de datos: MYSQL.
