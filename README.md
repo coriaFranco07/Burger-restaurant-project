@@ -8,7 +8,9 @@ Exploración del Menú: Los clientes pueden navegar fácilmente por todas las op
 Detalles de Producto: Cada hamburguesa tiene su propia página con información detallada, incluyendo ingredientes, precios y opciones de personalización.
 Interfaz Intuitiva: Una interfaz de usuario sencilla y accesible para todas las edades.
 Sistema de Pedidos: Facilita a los clientes la selección de productos y la creación de un pedido en línea (si se encuentra implementado).
+
 Tecnologías Utilizadas 🛠️
+
 Frontend:
 
 Flutter
